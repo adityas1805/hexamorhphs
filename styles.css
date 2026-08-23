@@ -358,6 +358,7 @@ img{ max-width: 100%; display:block; }
 
 /* custom hazard markers (Leaflet divIcon — plain CSS, no per-frame JS cost) */
 .hazard-marker{
+  display: block;
   width: 16px;
   height: 16px;
   border-radius: 50%;
