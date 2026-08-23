@@ -1,0 +1,9 @@
+{
+  "name": "sagar-setu-sih25039",
+  "version": "1.0.0",
+  "private": true,
+  "description": "SIH25039 - Integrated Platform for Crowdsourced Ocean Hazard Reporting and Social Media Analytics (showcase site + live Google News signal feed).",
+  "engines": {
+    "node": ">=18"
+  }
+}
